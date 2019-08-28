@@ -1,0 +1,8 @@
+Paco:
+  name   : "Paco Soberón"
+  avatar : "/assets/images/paco.jpg"
+  bio    : "Passionate developer and geek father. Same recipe for both: know your stuff and, when in trouble, don't despair."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/unratito/"
