@@ -19,3 +19,8 @@ Well, it is not *that* difficult. It just takes a little learning. Once you're a
 {% include video id="RE4uY39q17E" provider="youtube" %}
 
 In the following posts, I will try to explain some basic notions about Git wizardry.
+
+**Git Wizardry**  
+I: Spells don't come easy  
+[II: Choosing the right wand]({% post_url 2019-12-10-git-wizardry-ii-choosing-the-right-wand %})  
+{: .text-center .notice--success}
