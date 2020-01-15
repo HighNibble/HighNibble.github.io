@@ -27,9 +27,9 @@ Git CLI is a powerful wand, no doubt. And there will be times when you'll have t
 
 That said, not every GUI client is the same. You'll find three different categories:
 
-- The best GUI clients show you all the abstractions in their main interface. You should see, at least, the repository graph and the changes in your working directory. Other abstractions, like remote repositories, should be easily accessible too.
+- The best GUI clients show you all the abstractions in their main interface. You should see, at least, the commit graph and the changes in your working directory. Other abstractions, like remote repositories, should be easily accessible too.
 
-- Some GUI clients are more focused on your local changes. This is the case of many IDEs, which include Git functionality (directly or through a plugin) and help you track your changes while you're editing. Some IDEs are able to show, at your request, the repository graph in a separate tab or window.
+- Some GUI clients are more focused on your local changes. This is the case of many IDEs, which include Git functionality (directly or through a plugin) and help you track your changes while you're editing. Some IDEs are able to show, at your request, the commit graph in a separate tab or window.
 
 - Finally, a few GUI clients try to mimic the interface of old, non-distributed version control systems, to draw the attention of developers coming from there. Avoid them at all costs, or you'll pay a very high price. They claim to be very integrated with your operating system interface, which may be true, but you are trying to master Git wizardry, not operating systems. You choose your wand, not the other way around.
 
@@ -40,4 +40,5 @@ In my next post, I will show you how a Git repository records and organizes your
 **Git Wizardry**  
 [I: Spells don't come easy]({% post_url 2019-11-07-git-wizardry-i-spells-dont-come-easy %})  
 II: Choosing the right wand  
+[III: The marauder's graph]({% post_url 2020-01-15-git-wizardry-iii-the-marauders-graph %})  
 {: .text-center .notice--success}

@@ -23,4 +23,5 @@ In the following posts, I will try to explain some basic notions about Git wizar
 **Git Wizardry**  
 I: Spells don't come easy  
 [II: Choosing the right wand]({% post_url 2019-12-10-git-wizardry-ii-choosing-the-right-wand %})  
+[III: The marauder's graph]({% post_url 2020-01-15-git-wizardry-iii-the-marauders-graph %})  
 {: .text-center .notice--success}
