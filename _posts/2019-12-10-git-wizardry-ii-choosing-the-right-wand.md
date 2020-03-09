@@ -41,4 +41,5 @@ In my next post, I will show you how a Git repository records and organizes your
 [I: Spells don't come easy]({% post_url 2019-11-07-git-wizardry-i-spells-dont-come-easy %})  
 II: Choosing the right wand  
 [III: The marauder's graph]({% post_url 2020-01-15-git-wizardry-iii-the-marauders-graph %})  
+[IV: Working directories and where to find them]({% post_url 2020-03-09-git-wizardry-iv-working directories-and-where-to-find-them %})  
 {: .text-center .notice--success}
