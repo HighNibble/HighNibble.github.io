@@ -25,4 +25,5 @@ I: Spells don't come easy
 [II: Choosing the right wand]({% post_url 2019-12-10-git-wizardry-ii-choosing-the-right-wand %})  
 [III: The marauder's graph]({% post_url 2020-01-15-git-wizardry-iii-the-marauders-graph %})  
 [IV: Working directories and where to find them]({% post_url 2020-03-09-git-wizardry-iv-working directories-and-where-to-find-them %})  
+[V: The three realms]({% post_url 2020-07-02-git-wizardry-v-the-three-realms %})  
 {: .text-center .notice--success}
